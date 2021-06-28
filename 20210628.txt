@@ -1,5 +1,5 @@
 오늘의 내용
-
+pandas , matplotlib, seaborn Review
 
 
 오늘의 목표나 todo
